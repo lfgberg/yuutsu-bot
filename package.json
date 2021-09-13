@@ -1,0 +1,19 @@
+{
+  "name": "mxbrownbot",
+  "version": "1.0.0",
+  "description": "mechanical keyboard discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Lfgberg",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "googleapis": "^39.2.0",
+    "nodemon": "^2.0.6",
+    "npm": "^6.14.7"
+  }
+}
