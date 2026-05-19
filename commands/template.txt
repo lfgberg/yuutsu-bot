@@ -1,0 +1,16 @@
+//  Code to be run
+module.exports.run = async (client, message, args, txt, user) => {
+
+//  Import Discord
+const Discord = module.require("discord.js");
+
+
+};
+
+//  Exports relevant info
+module.exports.info = {
+    name: "",
+    description: "",
+    usage: "",
+    dev: false,
+}
